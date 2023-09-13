@@ -1,6 +1,7 @@
-# NÁZEV PROJEKTU
+# Spicy Keycaps
 
-Popis projektu
+
+E-shop prodávající keycapsy.
 
 ## Název týmu
 
